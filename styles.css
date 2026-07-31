@@ -7,7 +7,18 @@
 font-size: 50px;
 
 }
+.imagenes {
+  display: flex!important;
+  flex-wrap: wrap !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
 
+/* Y si usaste min-width o width en px para las columnas de Costa/Sierra, cámbialo a max-width */
+.imagenes {
+  width: 100%; /* En móvil cada una ocupará el ancho completo */
+  max-width: 300px !important;
+}
 .registrate{
 font-family: 'Playfair Display', serif;
 font-size: 35px;
