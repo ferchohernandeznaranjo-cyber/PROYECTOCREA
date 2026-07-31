@@ -12,6 +12,7 @@ font-size: 50px;
   flex-wrap: wrap !important;
   width: 100% !important;
   max-width: 100% !important;
+    width: 800px;
 }
 
 /* Y si usaste min-width o width en px para las columnas de Costa/Sierra, cámbialo a max-width */
