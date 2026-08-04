@@ -68,7 +68,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <div class="card-footer">
         <a href="procesar_registro.php">¿No tienes cuenta? Regístrate aquí</a>
         <br><br>
-        <a href="../index.html" class="link-back">← Volver al inicio</a>
+        <a href="../Pag-principal-NATIVA/index.html" class="link-back">← Volver al inicio</a>
       </div>
     </div>
   </main>
